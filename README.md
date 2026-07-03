@@ -1,4 +1,4 @@
-# Devops Project: video-converter
+# VIDEO-CONVERTER
 Converting mp4 videos to mp3 in a microservices architecture.
 
 ## Deploying a Python-based Microservice Application on AWS EKS
